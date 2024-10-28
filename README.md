@@ -1,9 +1,6 @@
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/88a36ca8-3e3e-4b0e-867c-0de1417377ff)
 
 ![readme_header](https://github.com/user-attachments/assets/5b01ec37-1e4b-48f2-b06e-3b93d50a2e44)
-
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/4fbaa47d-3920-4661-9608-6767219f24f3)
 
 
 <h1 align="center">
