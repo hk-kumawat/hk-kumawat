@@ -10,14 +10,18 @@
 
 <br/>
 
-<div align="center"> 
- 🔭 I’m currently working on <b>something cool!</b><br>
-   
- 🚀 On a mission to master AI, ML & Data Science magic—turning data into discovery! 🧙‍♂️✨<br>
- 😄 Pronouns: built/different<br>
- ☕ Always powered by <b>tea!</b>
+<div align="center">
+ 
+ 🔭 I’m currently working on **something cool!**
+ 
+ 🚀 On a mission to master AI, ML & Data Science magic—turning data into discovery! 🧙‍♂️✨ 
+
+ 😄 Pronouns: built/different
+ 
+ ☕ Always powered by **tea!**
 
  </div>
+<br>
  
 <div align="center"> 
      <a href="mailto:harshalkumawat100@gmail.com">
@@ -73,4 +77,4 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<br>
+
