@@ -1,6 +1,4 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+![readme_header](https://github.com/user-attachments/assets/5b01ec37-1e4b-48f2-b06e-3b93d50a2e44)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola👋+fellow+<coders/>!🧑🏻‍💻;+I'm+Harshal+Kumawat!;" />
