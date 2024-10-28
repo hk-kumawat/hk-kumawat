@@ -46,7 +46,7 @@
 ![horizontal-divider-gradient](https://github.com/user-attachments/assets/dbcaecca-3d13-4f59-9777-81f18aa04b18)
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 Stats 🔍</h2>
 <br>
 <div align="center">
 <img width=390 src="https://streak-stats.demolab.com/?user=hk-kumawat&theme=react&border_radius=10" alt="streak stats"/>
