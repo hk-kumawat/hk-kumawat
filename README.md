@@ -73,7 +73,7 @@
 
 ![horizontal-divider-gradient](https://github.com/user-attachments/assets/b96708ba-0a8e-4b3c-aeea-022e33e2c325)
 
-<br>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
