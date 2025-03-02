@@ -15,8 +15,6 @@
  
  🔭 I’m currently working on **something cool!**
  
- 🚀 On a mission to master AI, ML & Data Science magic—turning data into discovery! 🧙‍♂️✨ 
-
  😄 Pronouns: built/different
  
  ☕ Always powered by **tea!**
