@@ -22,17 +22,21 @@
  
 <div align="center"> 
      <a href="mailto:harshalkumawat100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshal-kumawat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+     </a>
+     <a href="https://www.linkedin.com/in/harshal-kumawat" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+     </a>
+     <a href="https://twitter.com/Harshal_Next404" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+     </a>
 </div>
+
 <br>
 
 ![horizontal-divider-gradient](https://github.com/user-attachments/assets/e0e4c53f-c458-4618-8c0d-3a1cda6ed6aa)
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Lᴀɴɢᴜᴀɢᴇs·Fʀᴀᴍᴇᴡᴏʀᴋs·Tᴏᴏʟs ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,c,cpp,java,r" /><br>
@@ -45,7 +49,7 @@
 ![horizontal-divider-gradient](https://github.com/user-attachments/assets/dbcaecca-3d13-4f59-9777-81f18aa04b18)
 
 
-<h2 align="center">📊 Stats 🔍</h2>
+<h2 align="center">📊 Sᴛᴀᴛs 📊</h2>
 <br>
 <div align="center">
 <img width=390 src="https://streak-stats.demolab.com/?user=hk-kumawat&theme=react&border_radius=10" alt="streak stats"/>
@@ -58,8 +62,11 @@
 
 ![horizontal-divider-gradient](https://github.com/user-attachments/assets/09386911-f0e8-4bee-9eff-b5120b897701)
 
+
+
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Mʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hk-kumawat/hk-kumawat/output/github-contribution-grid-snake.svg" />
   
