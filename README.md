@@ -11,9 +11,9 @@
 
 <div align="center">
     
- 🔭 I’m currently working on **something cool!**
+🔭 I’m currently working on **something cool!**
  
- 😄 Pronouns: built/different
+ 🤖 Exploring the world of AI, ML, and GenAI
  
  ☕ Always powered by **tea!**
 
