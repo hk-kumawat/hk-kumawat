@@ -11,7 +11,7 @@
 
 <div align="center">
     
-🔭 I’m currently working on **something cool!**
+
  
  🤖 Exploring the world of AI, ML, and GenAI
  
