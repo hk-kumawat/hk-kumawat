@@ -1,88 +1,108 @@
+<div align="center">
 
+<!-- Header with gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:041328,50:035cb0,100:059ee4&height=120&section=header&fontSize=0"/>
 
-![readme_header](https://github.com/user-attachments/assets/5b01ec37-1e4b-48f2-b06e-3b93d50a2e44)
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola👋+fellow+<coders/>!🧑🏻‍💻;+I'm+Harshal+Kumawat!;" />
+<!-- Typing Animation -->
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=059EE4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harshal+Kumawat;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
 </h1>
 
-<br/>
-
-<div align="center">
-    
-
- 
- 🤖 Exploring the world of AI, ML, and GenAI
- 
- ☕ Always powered by **tea!**
-
- </div>
-<br>
- 
-<div align="center"> 
-     <a href="mailto:harshalkumawat100@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-     </a>
-     <a href="https://www.linkedin.com/in/harshal-kumawat" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-     </a>
-     <a href="https://twitter.com/Harshal_Next404" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-     </a>
 </div>
 
-<br>
+---
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/e0e4c53f-c458-4618-8c0d-3a1cda6ed6aa)
+### 👨‍💻 About Me
 
-<h2 align="center">⚒️ Lᴀɴɢᴜᴀɢᴇs·Fʀᴀᴍᴇᴡᴏʀᴋs·Tᴏᴏʟs ⚒️</h2>
-<br/>
+```python
+class HarshalKumawat:
+    def __init__(self):
+        self.username = "hk-kumawat"
+        self.role = "AI/ML Developer"
+        self.interests = ["Artificial Intelligence", "Machine Learning", "GenAI", "Deep Learning"]
+        self.current_focus = "Exploring cutting-edge AI technologies"
+        self.fuel = "Tea ☕"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together.")
+
+me = HarshalKumawat()
+me.say_hi()
+```
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,c,cpp,java,r" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,mongodb,mysql,androidstudio,sklearn,tensorflow,linux" /><br>
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-041328?style=for-the-badge&logo=python&logoColor=059ee4)
+![JavaScript](https://img.shields.io/badge/JavaScript-041328?style=for-the-badge&logo=javascript&logoColor=059ee4)
+![C++](https://img.shields.io/badge/C++-041328?style=for-the-badge&logo=c%2B%2B&logoColor=059ee4)
+![Java](https://img.shields.io/badge/Java-041328?style=for-the-badge&logo=openjdk&logoColor=059ee4)
+![C#](https://img.shields.io/badge/C%23-041328?style=for-the-badge&logo=csharp&logoColor=059ee4)
+![R](https://img.shields.io/badge/R-041328?style=for-the-badge&logo=r&logoColor=059ee4)
+
+#### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-041328?style=for-the-badge&logo=tensorflow&logoColor=059ee4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-041328?style=for-the-badge&logo=scikitlearn&logoColor=059ee4)
+![PyTorch](https://img.shields.io/badge/PyTorch-041328?style=for-the-badge&logo=pytorch&logoColor=059ee4)
+![Pandas](https://img.shields.io/badge/Pandas-041328?style=for-the-badge&logo=pandas&logoColor=059ee4)
+![NumPy](https://img.shields.io/badge/NumPy-041328?style=for-the-badge&logo=numpy&logoColor=059ee4)
+
+#### Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-041328?style=for-the-badge&logo=visualstudiocode&logoColor=059ee4)
+![Git](https://img.shields.io/badge/Git-041328?style=for-the-badge&logo=git&logoColor=059ee4)
+![Linux](https://img.shields.io/badge/Linux-041328?style=for-the-badge&logo=linux&logoColor=059ee4)
+![Firebase](https://img.shields.io/badge/Firebase-041328?style=for-the-badge&logo=firebase&logoColor=059ee4)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-041328?style=for-the-badge&logo=mongodb&logoColor=059ee4)
+![MySQL](https://img.shields.io/badge/MySQL-041328?style=for-the-badge&logo=mysql&logoColor=059ee4)
+
 </div>
 
-<br/>
+---
 
+### 📊 GitHub Statistics
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/dbcaecca-3d13-4f59-9777-81f18aa04b18)
-
-
-<h2 align="center">📊 Sᴛᴀᴛs 📊</h2>
-<br>
 <div align="center">
-<img width=390 src="https://streak-stats.demolab.com/?user=hk-kumawat&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hk-kumawat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk-kumawat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hk-kumawat&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=059ee4&icon_color=035cb0&text_color=f0faff&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=hk-kumawat&theme=algolia&hide_border=true&background=0D1117&ring=059ee4&fire=035cb0&currStreakLabel=059ee4&border_radius=10" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk-kumawat&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=059ee4&text_color=f0faff&border_radius=10&langs_count=8&hide=HTML" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hk-kumawat&bg_color=0d1117&color=059ee4&line=035cb0&point=f0faff&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
+
 </div>
 
-<br/><br/>
+---
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/09386911-f0e8-4bee-9eff-b5120b897701)
-
-
-
+### 🐍 Contribution Timeline
 
 <div align="center">
-  <h2>🐍 Mʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hk-kumawat/hk-kumawat/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
 </div>
 
-<!--x axis divider-->
+---
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/b96708ba-0a8e-4b3c-aeea-022e33e2c325)
+### 🤝 Let's Connect
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-041328?style=for-the-badge&logo=linkedin&logoColor=059ee4)](https://www.linkedin.com/in/harshal-kumawat)
+[![Twitter](https://img.shields.io/badge/Twitter-041328?style=for-the-badge&logo=twitter&logoColor=059ee4)](https://twitter.com/Harshal_Next404)
+[![Gmail](https://img.shields.io/badge/Gmail-041328?style=for-the-badge&logo=gmail&logoColor=059ee4)](mailto:harshalkumawat100@gmail.com)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br/>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=hk-kumawat&style=flat-square&color=brightgreen&abbreviated=true" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=hk-kumawat&style=for-the-badge&color=035cb0&label=PROFILE+VIEWS)
 
+</div>
 
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059ee4,50:035cb0,100:041328&height=100&section=footer"/>
+</div>
