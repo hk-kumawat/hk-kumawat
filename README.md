@@ -1,87 +1,77 @@
+# Harshal Kumawat
 
-
-![readme_header](https://github.com/user-attachments/assets/5b01ec37-1e4b-48f2-b06e-3b93d50a2e44)
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola👋+fellow+<coders/>!🧑🏻‍💻;+I'm+Harshal+Kumawat!;" />
-</h1>
-
-<br/>
-
-<div align="center">
-    
-
- 
- 🤖 Exploring the world of AI, ML, and GenAI
- 
- ☕ Always powered by **tea!**
-
- </div>
-<br>
- 
-<div align="center"> 
-     <a href="mailto:harshalkumawat100@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-     </a>
-     <a href="https://www.linkedin.com/in/harshal-kumawat" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-     </a>
-     <a href="https://twitter.com/Harshal_Next404" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-     </a>
-</div>
+**AI/Data Science student** · Building toward AI Product Engineering · India
 
 <br>
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/e0e4c53f-c458-4618-8c0d-3a1cda6ed6aa)
+## What I'm currently working on
 
-<h2 align="center">⚒️ Lᴀɴɢᴜᴀɢᴇs·Fʀᴀᴍᴇᴡᴏʀᴋs·Tᴏᴏʟs ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,c,cpp,java,r" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,mongodb,mysql,androidstudio,sklearn,tensorflow,linux" /><br>
-</div>
+Getting my foundations right - JavaScript, TypeScript, Python, and FastAPI, before moving into AI systems.
 
-<br/>
+Building real projects as I go. First deployment coming soon.
 
-
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/dbcaecca-3d13-4f59-9777-81f18aa04b18)
-
-
-<h2 align="center">📊 Sᴛᴀᴛs 📊</h2>
 <br>
-<div align="center">
-<img width=390 src="https://streak-stats.demolab.com/?user=hk-kumawat&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hk-kumawat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk-kumawat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
+## Tech I'm Actually Using (Not Badge-Collecting)
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/09386911-f0e8-4bee-9eff-b5120b897701)
+**Currently learning and using:**
+
+<table>
+  <tr>
+    <th align="left">Languages</th>
+    <td>
+      Python<br>
+      JavaScript<br>
+      TypeScript
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Frontend</th>
+    <td>
+      HTML<br>
+      CSS<br>
+      React basics
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Backend</th>
+    <td>
+      FastAPI (learning)
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Database</th>
+    <td>
+      PostgreSQL (learning)
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Tools</th>
+    <td>
+      Git<br>
+      VS Code
+    </td>
+  </tr>
+</table>
+
+I only list what I've actively written code with. The AI stack comes after the foundation is solid.
+
+<br>
 
 
+## Background
 
+Built several ML projects during my diploma using tutorials. I can't explain all of them deeply, so I've made those private.
 
-<div align="center">
-  <h2>🐍 Mʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hk-kumawat/hk-kumawat/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
+Now focused on building real AI systems, not more tutorial projects.
 
-<!--x axis divider-->
+I'd rather have three projects I can fully explain than fifteen I copy-pasted.
 
-![horizontal-divider-gradient](https://github.com/user-attachments/assets/b96708ba-0a8e-4b3c-aeea-022e33e2c325)
+<br>
 
+## Contact
 
+If you're an AI engineer, a startup founder building AI products, or someone on a similar path - I'm genuinely interested in connecting.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=hk-kumawat&style=flat-square&color=brightgreen&abbreviated=true" alt="Profile Views" />
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kumawat-blue?logo=linkedin)](https://www.linkedin.com/in/harshal-kumawat/)  
+[![Email](https://img.shields.io/badge/Email-harshalkumawat100@gmail.com-blue?logo=gmail)](mailto:harshalkumawat100@gmail.com)
